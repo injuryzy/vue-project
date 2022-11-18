@@ -1,0 +1,27 @@
+[
+    {
+        path:'/',
+        home:"home",
+        label:'首页'，
+        icon:'s-home',
+        url:'Home/Home'
+    },{
+        path:'/mall',
+        home:"mall",
+        label:'商城管理'，
+        icon:'video-play',
+        url:'MallManage/MallManage'
+    },{
+        path:'/user',
+        home:"home",
+        label:'用户管理'，
+        icon:'user',
+        url:'userManage/userManage'
+    },{
+        path:'/',
+        home:"home",
+        label:'首页'，
+        icon:'s-home',
+        url:'Home/Home'
+    },
+]
